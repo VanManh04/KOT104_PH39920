@@ -1,4 +1,4 @@
-package com.example.kot104_ph39920
+package com.example.kot104_ph39920.Lab_1
 
 fun main(){
     print("Nguyễn Văn Anh - PS123456\n")

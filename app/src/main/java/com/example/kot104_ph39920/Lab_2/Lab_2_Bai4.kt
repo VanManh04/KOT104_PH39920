@@ -1,4 +1,6 @@
-package com.example.kot104_ph39920
+package com.example.kot104_ph39920.Lab_2
+
+import com.example.kot104_ph39920.SinhVienModel
 
 fun main () {
     val sv1 = SinhVienModel("Nguyen Van Long", "PH11341", 8f)
@@ -21,7 +23,7 @@ fun main () {
         println("\t \t 2. Xóa Sinh viên")
         println("\t \t 3. DS Sinh viên")
         println("=======================================")
-        print("Chọn 1 hoặc 2: ")
+        print("Chọn 1, 2 hoặc 3: ")
 
         val chon:String? = readLine()
 
